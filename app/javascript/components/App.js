@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Switch } from 'react-router-dom'
-import Blog from './Blog'
-import About from './About'
+import Blog from './Blog/Blog'
+import About from './About/About'
 
 class App extends React.Component {
 	render() {
